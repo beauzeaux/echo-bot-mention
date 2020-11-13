@@ -1,0 +1,4 @@
+bin/*
+obj/*
+ngrok.yml
+appsettings.Development.json
